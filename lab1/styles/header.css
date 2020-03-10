@@ -16,10 +16,6 @@ header {
     width: auto;
 }
 
-.links {
-    max-height: inherit;
-}
-
 .links>ul {
     display: flex;
     justify-content: center;
