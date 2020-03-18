@@ -1,0 +1,57 @@
+html {
+    background-color: #e8eaf6;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 10px 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 60px;
+    text-align: left;
+}
+
+h2 {
+    margin: 10px 0;
+    font-size: 28px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+
+}
+
+.product {
+    max-height: auto;
+    max-width: inherit;
+}
+
+.sell-link {
+    display: block;
+    width: 100%;
+    padding: 20px 0;
+    background-color: #c62828;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.img-in-text {
+    display: inline;
+    padding: 0 10px;
+    vertical-align: middle;
+}
