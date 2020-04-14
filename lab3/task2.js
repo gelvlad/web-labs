@@ -1,6 +1,5 @@
 function sum(argument) {
-    let total = 0;
-    this.forEach(element => total += element)
+    this.forEach(element => this + element)
     return total;
 }
 

@@ -1,7 +1,7 @@
 function createCounter() {
-    let count = 1;
+    let count = 0;
     function counter() {
-        return count++;
+        return ++count;
     }
     return counter;
 }
